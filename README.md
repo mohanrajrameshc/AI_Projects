@@ -1,4 +1,7 @@
 # AI_Projects
+#### https://pjreddie.com/media/files/yolov3.weights  
+#### using above link download and add the Yolov3.weights file in the project, the only the project have work. 
+
 
 ## Objective
 
